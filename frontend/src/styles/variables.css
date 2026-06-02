@@ -1,0 +1,13 @@
+/* Kimbie Dark inspired variables */
+:root {
+  --kimbie-bg: #0f1113;
+  --kimbie-surface: #151617;
+  --kimbie-card: #17171a;
+  --kimbie-muted: #9aa5ad;
+  --kimbie-text: #dfe8ee;
+  --kimbie-accent: #f6b26b;
+  --kimbie-accent-2: #7dd3fc;
+  --kimbie-glass: rgba(255,255,255,0.03);
+  --radius-lg: 1.25rem;
+  --radius-md: 0.75rem;
+}

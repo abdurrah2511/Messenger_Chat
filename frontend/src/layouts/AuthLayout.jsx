@@ -1,0 +1,9 @@
+const AuthLayout = ({ children }) => {
+  return (
+    <div className="auth-root">
+      <div className="auth-container">{children}</div>
+    </div>
+  );
+};
+
+export default AuthLayout;

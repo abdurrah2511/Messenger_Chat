@@ -1,0 +1,8 @@
+@import '../variables.css';
+@import '../utils.css';
+
+/* Auth page specific tweaks */
+.auth-card { max-width: 44rem; margin: 0 auto; }
+.auth-grid { max-width: 90rem; margin: 0 auto; display: grid; grid-template-columns: 1fr 1.2fr; gap: 2rem; align-items: center; justify-content: center; }
+.auth-aside { display: none; }
+@media(min-width: 992px) { .auth-aside { display:block; } }

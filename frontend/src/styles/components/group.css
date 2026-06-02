@@ -1,0 +1,5 @@
+@import '../variables.css';
+@import '../utils.css';
+
+/* Group component styles */
+.group-modal { max-width:48rem; }

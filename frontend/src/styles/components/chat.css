@@ -1,0 +1,7 @@
+@import '../variables.css';
+@import '../utils.css';
+
+/* Chat component overrides */
+.chat-header { padding:0.75rem 1rem; }
+.message-list { padding:1rem; }
+.message-input { padding:0.75rem 1rem; }

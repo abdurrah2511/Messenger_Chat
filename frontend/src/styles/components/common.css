@@ -1,0 +1,6 @@
+@import '../variables.css';
+@import '../utils.css';
+
+/* Common components adjustments */
+.avatar { width:48px; height:48px; }
+.btn { font-weight:600; }
